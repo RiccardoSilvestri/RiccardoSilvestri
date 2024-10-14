@@ -1,7 +1,7 @@
 ## Hi there, I'm Riccardo 🦀
 
 ## About Me
-Aspiring full-stack developer. Eager to take on new projects and collaborations.
+I am an aspiring Full-Stack Developer. Eager to take on new projects and collaborations.
 
 ### Aspiring Full-Stack Developer
 - 🌍 Living in Italy
