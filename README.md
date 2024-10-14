@@ -7,7 +7,7 @@ I am an aspiring Full-Stack Developer. Eager to take on new projects and collabo
 - 🌍 Living in Italy
 - 📚 Studied in a specialization course VET [Angelo Rizzoli](https://www.itsrizzoli.it/en/home-en/)
 - 🏎️ Motorsport enthusiast
-- 🌐 Language: Italian - English.
+- 🌐 Languages: Italian - English.
 
 <details>
 <summary><b>Skills acquired during the VET Angelo Rizzoli</b></summary>
