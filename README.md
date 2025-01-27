@@ -4,9 +4,11 @@
 I am an aspiring Full-Stack Developer. Eager to take on new projects and collaborations.
 
 ### Aspiring Full-Stack Developer
-- 🌍 Living in Italy
+
+- 💼 Working at [ITALTEL S.p.A.](https://www.italtel.com/)
 - 📚 Studied in a specialization course VET [Angelo Rizzoli](https://www.itsrizzoli.it/en/home-en/)
 - 🏎️ Motorsport enthusiast
+- 🌍 Living in Italy
 - 🌐 Languages: Italian - English.
 
 <details>
