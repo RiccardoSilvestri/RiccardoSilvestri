@@ -71,5 +71,5 @@ I am an aspiring Full-Stack Developer. Eager to take on new projects and collabo
 
 ## 📫 Contact
 
-- **Email**: [Email](mailto:r.silvestri04@gmail.com)
-- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/riccardo-silvestri-477767171/)
+- [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:r.silvestri04@gmail.com)
+- [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/riccardo-silvestri-477767171/)
