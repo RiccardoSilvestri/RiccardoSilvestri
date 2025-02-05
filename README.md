@@ -59,29 +59,29 @@ I am an aspiring Full-Stack Developer. Eager to take on new projects and collabo
 ## 🧑🏽‍💻 Coding skills
 
 - **Languages**: 
-  [![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)](https://it.wikipedia.org/wiki/Java_(linguaggio_di_programmazione)) 
-  [![Swift](https://img.shields.io/badge/Swift-F05138?logo=Swift&logoColor=white)](https://it.wikipedia.org/wiki/Swift_(linguaggio_di_programmazione)) 
-  [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://it.wikipedia.org/wiki/Python) 
+  [![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)](https://en.wikipedia.org/wiki/Java_(programming_language)) 
+  [![Swift](https://img.shields.io/badge/Swift-F05138?logo=Swift&logoColor=white)](https://en.wikipedia.org/wiki/Swift_(programming_language)) 
+  [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://en.wikipedia.org/wiki/Python_(programming_language)) 
   [![C#](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white)](https://en.wikipedia.org/wiki/C_Sharp_(programming_language)) 
-  [![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white)](https://it.wikipedia.org/wiki/HTML) 
-  [![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white)](https://it.wikipedia.org/wiki/CSS) 
-  [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)](https://it.wikipedia.org/wiki/JavaScript) 
-  [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)](https://it.wikipedia.org/wiki/TypeScript) 
+  [![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white)](https://en.wikipedia.org/wiki/HTML) 
+  [![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white)](https://en.wikipedia.org/wiki/CSS) 
+  [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)](https://en.wikipedia.org/wiki/JavaScript) 
+  [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)](https://en.wikipedia.org/wiki/TypeScript) 
 
 - **Frameworks and such**: 
   [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff)](https://en.wikipedia.org/wiki/Spring_Boot) 
   [![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)](https://en.wikipedia.org/wiki/React_(software)) 
-  [![React Native](https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB)](https://it.wikipedia.org/wiki/React_Native) 
-  [![Angular](https://img.shields.io/badge/Angular-E23237?logo=angular&logoColor=white)](https://it.wikipedia.org/wiki/Angular) 
+  [![React Native](https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB)](https://en.wikipedia.org/wiki/React_Native) 
+  [![Angular](https://img.shields.io/badge/Angular-E23237?logo=angular&logoColor=white)](https://en.wikipedia.org/wiki/Angular_(web_framework)) 
 
 - **Databases**: 
-  [![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)](https://it.wikipedia.org/wiki/SQLite) 
-  [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)](https://it.wikipedia.org/wiki/MySQL) 
-  [![MariaDB](https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white)](https://it.wikipedia.org/wiki/MariaDB) 
+  [![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)](https://en.wikipedia.org/wiki/SQLite) 
+  [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)](https://en.wikipedia.org/wiki/MySQL) 
+  [![MariaDB](https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white)](https://en.wikipedia.org/wiki/MariaDB) 
 
 - **Container**: 
-  [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](https://it.wikipedia.org/wiki/Docker) 
-  [![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff)](https://it.wikipedia.org/wiki/Kubernetes) 
+  [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](https://en.wikipedia.org/wiki/Docker_(software)) 
+  [![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff)](https://en.wikipedia.org/wiki/Kubernetes) 
 
 ---
 
