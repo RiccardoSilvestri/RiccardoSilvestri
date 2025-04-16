@@ -16,7 +16,7 @@ I am an aspiring Full-Stack Developer. Eager to take on new projects and collabo
 <summary><b>Skills acquired during the VET Angelo Rizzoli</b></summary>
 <p></p>
 <details>
-  <summary><b>UFT (Technical Skills)</b></summary>
+  <summary><b>UFS (specialized training unit)</b></summary>
   <ul>
     <p></p>
     <li><b>Operating Systems and competition management</b></li>
@@ -38,7 +38,7 @@ I am an aspiring Full-Stack Developer. Eager to take on new projects and collabo
   </ul>
 </details>
 <details>
-  <summary><b>UFS (Soft Skills)</b></summary>
+  <summary><b>UFT (transversal training unit)</b></summary>
   <ul>
     <p></p>
     <li><b>Personal effectiveness and behavioural style</b></li>
